@@ -24,5 +24,5 @@ void OnStart() {
 }
   
 void OnDeinit() {
-   return 0;
+   Print(__FUNCTION__," Deinitialization reason code = ",reason);
 }

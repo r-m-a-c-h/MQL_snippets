@@ -1,3 +1,5 @@
+// Script save desired timeseries of active symbol and period from defined year to last day on chart.
+
 // Find date
 // 1987/1/1
 int fYear = 1999;
